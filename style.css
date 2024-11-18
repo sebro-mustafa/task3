@@ -155,3 +155,36 @@ a{
    
 }
 /* end keeping your */
+
+/* start block-no */
+.block{
+    width: calc((100%/4) - 40px);
+    height: 211.13px;
+    float: left;
+    margin:0px 20px ;
+    border: 1px solid #e1e1e1;
+    background-color: white;
+    padding: 30px 25px 25px;
+    text-align: center;
+}
+.block-no{
+    width: 95%;
+    margin: auto;
+    position: relative;
+    top: -103px;
+}
+.img-block{
+   width: 70px;
+   height: 70px; 
+   text-align: center;
+   margin: 0px 75px;
+    
+}
+.text-block{
+    font-family: "Saira Condensed", sans-serif;
+    font-size: 24px;
+    line-height: 28.8px;
+    font-weight: 600;
+    margin-top: 26px;
+    text-align: center;
+}
